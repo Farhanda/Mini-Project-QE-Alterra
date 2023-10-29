@@ -7,3 +7,5 @@ Link Test Plan : https://docs.google.com/spreadsheets/d/1JG1N3A6N8ArsbLe9OIUTI9I
 Link PPT : https://docs.google.com/presentation/d/15ACTZEKsjFO8A5_yIERVg6cvOWOxjk0yLgtwlujIQMk/edit?usp=sharing
 
 Link Repo CI/CD : 
+	- Web : https://github.com/Farhanda/Web-Ci-CD
+	- API : https://github.com/Farhanda/API-CI-CD
